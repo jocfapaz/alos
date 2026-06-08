@@ -1,6 +1,0 @@
-{
-  "name": "AllergyScan",
-  "description": "Sistema de seguridad alimentaria para mitigar riesgos de alérgenos en Chile, permitiendo interpretar la seguridad de un alimento en menos de 5 segundos.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
